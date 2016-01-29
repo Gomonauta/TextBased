@@ -4,7 +4,7 @@ import sys
 #MENU PRINCIPAL
 def main():
     print("Bem vindo ao jogo!\n")
-    user_choice = input("O que deseja fazer? (Escolha uma letra e pressione Enter)\n\na)Jogar \nb)Ler Intruções \nc)Sair do jogo\n\n")
+    user_choice = input("O que deseja fazer? (Escolha uma letra e pressione Enter)\n\na)Jogar \nb)Ler Instruções \nc)Sair do jogo\n\n")
 
     if user_choice == "a":
         
